@@ -69,7 +69,7 @@
 		{
 			"offsets": [
 				-11,
-				-19
+				-11
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-29,
-				27
+				-28,
+				30
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-30,
-				21
+				-29,
+				22
 			],
 			"loop": false,
 			"fps": 24,
@@ -199,23 +199,23 @@
 			"name": "bf pre attack"
 		}
 	],
-	"no_antialiasing": false,
 	"image": "characters/BOYFRIEND",
+	"scale": 1,
+	"sing_duration": 4,
+	"healthicon": "ducc",
 	"position": [
 		0,
 		350
-	],
-	"healthicon": "bf",
-	"flip_x": true,
-	"healthbar_colors": [
-		49,
-		176,
-		209
 	],
 	"camera_position": [
 		0,
 		0
 	],
-	"sing_duration": 4,
-	"scale": 1
+	"flip_x": true,
+	"no_antialiasing": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	]
 }
